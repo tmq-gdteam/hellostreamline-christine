@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve">
+<g id="Grid">
+</g>
+<g id="_x32_4_Grid_Col" display="none" opacity="0.1" enable-background="new    ">
+</g>
+<g id="Layer_3">
+</g>
+<g id="Layer_4">
+</g>
+<g id="Layer_5">
+	<g>
+		<defs>
+			<rect id="SVGID_23_" x="-1661.05" y="0" width="1600.5" height="616.708"/>
+		</defs>
+		<clipPath id="SVGID_1_">
+			<use xlink:href="#SVGID_23_"  overflow="visible"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 0 0)" clip-path="url(#SVGID_1_)">
+			
+				<image overflow="visible" width="1280" height="847" xlink:href="C0EEC0A9.jpg"  transform="matrix(1.5965 0 0 1.5965 -1833.1134 -281.322)">
+			</image>
+		</g>
+	</g>
+	<g>
+		<path fill="#F4F6F9" d="M137.422,23.696c2.533,0,4.726,0.927,6.578,2.778c1.85,1.852,2.777,4.045,2.777,6.578v130.977
+			c0,2.533-0.927,4.726-2.777,6.578c-1.853,1.85-4.045,2.777-6.578,2.777H53.223c-2.535,0-4.728-0.927-6.578-2.777
+			c-1.853-1.853-2.777-4.045-2.777-6.578V33.051c0-2.533,0.925-4.726,2.777-6.578c1.85-1.85,4.043-2.778,6.578-2.778H137.422z
+			 M137.422,145.317V42.407H53.223v102.91H137.422z M95.322,166.659c2.046,0,3.775-0.708,5.189-2.119
+			c1.412-1.412,2.12-3.143,2.12-5.189c0-2.046-0.708-3.776-2.12-5.189c-1.414-1.411-3.143-2.119-5.189-2.119
+			s-3.778,0.708-5.189,2.119c-1.414,1.414-2.12,3.143-2.12,5.189c0,2.047,0.706,3.778,2.12,5.189
+			C91.544,165.951,93.276,166.659,95.322,166.659z"/>
+	</g>
+</g>
+</svg>
