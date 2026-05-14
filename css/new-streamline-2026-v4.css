@@ -212,7 +212,7 @@ h3 {
   margin-bottom: 0;
   font-size: 1.4rem;
   font-weight: 500;
-  line-height: 1.9vw;
+  line-height: 1.4;
 }
 
 h4 {
@@ -221,7 +221,7 @@ h4 {
   font-family: Ubuntu, Helvetica, sans-serif;
   font-size: 1.333em;
   font-weight: 500;
-  line-height: 1.2vw;
+  line-height: 1.3;
 }
 
 h5 {
@@ -9278,7 +9278,7 @@ html.w-mod-js [data-ix="ltr"] {
   h4 {
     margin-top: 0;
     font-size: 1.2rem;
-    line-height: 1.2rem;
+    line-height: 1.3;
   }
 
   h5 {
